@@ -1,3 +1,10 @@
-__Wiki__
+# catchJava Wiki
 
-https://github.com/catchJava/wiki/wiki
+__Wiki link__
+
+[Main page](https://github.com/catchJava/wiki/wiki)
+
+
+__Github Markdown Guides__
+
+https://guides.github.com/features/mastering-markdown/
